@@ -226,3 +226,5 @@ The current selection of children's bikes is inadequate for the market; we shoul
 Feedback is crucial for several reasons. Customer preferences are constantly evolving, and feedback helps us stay adaptable by providing insights into changing market trends and customer behaviors. However, we have very few reviews in our database, so it's essential that we work on this.
 
 Adventure Works boasts 290 active employees, indicating a substantial workforce. With such diversity among our colleagues, each bringing various opinions and perspectives, they can contribute significantly to product selection and initial testing before products go into production.
+
+[Slides for presentation can be found here](https://docs.google.com/presentation/d/18R_HFTxM-JMxeUhWb7dFXIrR_k4RpBoHTmpEnvsHiJU/edit?usp=sharing)
